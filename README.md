@@ -1,3 +1,3 @@
 # wild-project
-Wild project
+Wild link
 Comment installer ce projet ?
